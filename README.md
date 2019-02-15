@@ -14,9 +14,9 @@ Just run iva.but in your command prompt and scrolling lines of some words and nu
 
 There are few commands in the file to make your monitor looking busy and seroius:
 
-'''
+```
 dir
-'''
+```
 Gives a list of files and folders
 '''
 tree
