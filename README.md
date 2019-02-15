@@ -18,17 +18,17 @@ There are few commands in the file to make your monitor looking busy and seroius
 dir
 ```
 Gives a list of files and folders
-'''
+```
 tree
-'''
+```
 Gives a tree of folders and subfolders in the Desktop folder
-'''
+```
 ping
-'''
+```
 Pings a website (ya.ru)
-'''
+```
 tracert
-'''
+```
 Trace routing a website (ya.ru)
 
 And repeats
